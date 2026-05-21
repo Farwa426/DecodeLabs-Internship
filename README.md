@@ -51,6 +51,8 @@ project-1-todo-list/
     ├── todo_list.py       # Main application file
     ├── tasks.json         # Auto-generated data file (created on first run)
     └── README.md          # Project documentation
+
+
 # Expense Tracker - Python Project 2
 
 > **DecodeLabs Industrial Training Kit | Batch 2026**
